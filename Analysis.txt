@@ -1,0 +1,3 @@
+We can't really delete the node, but we can kinda achieve the same effect by instead removing the next node after copying its data into the node that we were asked to delete.
+	----by StefanPochmann.
+Thanks for his sharing!
